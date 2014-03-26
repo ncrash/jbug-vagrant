@@ -1,0 +1,3 @@
+[submodule "vagrant-ubuntu-oracle-xe"]
+	path = vagrant-ubuntu-oracle-xe
+	url = https://github.com/hilverd/vagrant-ubuntu-oracle-xe.git
