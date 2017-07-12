@@ -1,0 +1,3150 @@
+{
+  "version": 1,
+  "width": 208,
+  "height": 46,
+  "duration": 1276.093793,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.406459,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.065295,
+      "\u001b]2;ncrash@Daekwonui-MacBook-Pro: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.011835,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      2.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.2e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.444877,
+      "\u001b[7mhttps://app.vagrantup.com/ubuntu/boxes/trusty64\u001b[27m"
+    ],
+    [
+      1.17676,
+      "\u001b[47D\u001b[27mh\u001b[27mt\u001b[27mt\u001b[27mp\u001b[27ms\u001b[27m:\u001b[27m/\u001b[27m/\u001b[27ma\u001b[27mp\u001b[27mp\u001b[27m.\u001b[27mv\u001b[27ma\u001b[27mg\u001b[27mr\u001b[27ma\u001b[27mn\u001b[27mt\u001b[27mu\u001b[27mp\u001b[27m.\u001b[27mc\u001b[27mo\u001b[27mm\u001b[27m/\u001b[27mu\u001b[27mb\u001b[27mu\u001b[27mn\u001b[27mt\u001b[27mu\u001b[27m/\u001b[27mb\u001b[27mo\u001b[27mx\u001b[27me\u001b[27ms\u001b[27m/\u001b[27mt\u001b[27mr\u001b[27mu\u001b[27ms\u001b[27mt\u001b[27my\u001b[27m6\u001b[27m4\u001b[47D"
+    ],
+    [
+      1.81171,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000298,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.083282,
+      "\u001b]2;ncrash@Daekwonui-MacBook-Pro: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.013162,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘ \u001b[44m\u001b[30m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      2.3e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      2.328643,
+      "v"
+    ],
+    [
+      0.107604,
+      "\bva"
+    ],
+    [
+      0.092066,
+      "g"
+    ],
+    [
+      0.21895,
+      "rant\u001b[1m \u001b[0m"
+    ],
+    [
+      0.614532,
+      "\b\u001b[0m b"
+    ],
+    [
+      0.071333,
+      "o"
+    ],
+    [
+      0.084256,
+      "x"
+    ],
+    [
+      0.102207,
+      " "
+    ],
+    [
+      0.235026,
+      "a"
+    ],
+    [
+      0.123846,
+      "d"
+    ],
+    [
+      0.16655,
+      "d"
+    ],
+    [
+      0.091212,
+      " "
+    ],
+    [
+      0.345558,
+      "\u001b[7mhttps://app.vagrantup.com/ubuntu/boxes/trusty64\u001b[27m"
+    ],
+    [
+      0.358112,
+      "\u001b[47D\u001b[27mh\u001b[27mt\u001b[27mt\u001b[27mp\u001b[27ms\u001b[27m:\u001b[27m/\u001b[27m/\u001b[27ma\u001b[27mp\u001b[27mp\u001b[27m.\u001b[27mv\u001b[27ma\u001b[27mg\u001b[27mr\u001b[27ma\u001b[27mn\u001b[27mt\u001b[27mu\u001b[27mp\u001b[27m.\u001b[27mc\u001b[27mo\u001b[27mm\u001b[27m/\u001b[27mu\u001b[27mb\u001b[27mu\u001b[27mn\u001b[27mt\u001b[27mu\u001b[27m/\u001b[27mb\u001b[27mo\u001b[27mx\u001b[27me\u001b[27ms\u001b[27m/\u001b[27mt\u001b[27mr\u001b[27mu\u001b[27ms\u001b[27mt\u001b[27my\u001b[27m6\u001b[27m4\u001b[?1l\u001b>"
+    ],
+    [
+      3e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.00053,
+      "\u001b]2;vagrant box add https://app.vagrantup.com/ubuntu/boxes/trusty64\u0007\u001b]1;vagrant\u0007"
+    ],
+    [
+      2.21187,
+      "\u001b[1m==> box: Loading metadata for box 'https://app.vagrantup.com/ubuntu/boxes/trusty64'\u001b[0m\r\n"
+    ],
+    [
+      1.941828,
+      "\u001b[1m==> box: Adding box 'ubuntu/trusty64' (v20170619.0.0) for provider: virtualbox\u001b[0m\r\n"
+    ],
+    [
+      0.004988,
+      "\u001b[0m    box: Downloading: https://vagrantcloud.com/ubuntu/boxes/trusty64/versions/20170619.0.0/providers/virtualbox.box\u001b[0m\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[1m==> box: Box download is resuming from prior download progress\u001b[0m\r\n"
+    ],
+    [
+      0.459129,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000143,
+      "\u001b[0m    box: Progress: 0% (Rate: 0/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      2.019647,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[0m    box: Progress: 0% (Rate: 6d/s, Estimated time remaining: 0:00:01)\u001b[0m"
+    ],
+    [
+      0.987594,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000359,
+      "\u001b[0m    box: Progress: 0% (Rate: 111k/s, Estimated time remaining: 2:31:49)\u001b[0m"
+    ],
+    [
+      0.951903,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000317,
+      "\u001b[0m    box: Progress: 0% (Rate: 292k/s, Estimated time remaining: 0:41:42)\u001b[0m"
+    ],
+    [
+      1.000378,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000144,
+      "\u001b[0m    box: Progress: 0% (Rate: 672k/s, Estimated time remaining: 0:15:40)\u001b[0m"
+    ],
+    [
+      0.998915,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00024,
+      "\u001b[0m    box: Progress: 0% (Rate: 976k/s, Estimated time remaining: 0:09:51)\u001b[0m"
+    ],
+    [
+      1.029361,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[0m    box: Progress: 1% (Rate: 1233k/s, Estimated time remaining: 0:07:21)\u001b[0m"
+    ],
+    [
+      0.990567,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[0m    box: Progress: 1% (Rate: 1628k/s, Estimated time remaining: 0:06:20)\u001b[0m"
+    ],
+    [
+      0.979998,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000547,
+      "\u001b[0m    box: Progress: 2% (Rate: 2000k/s, Estimated time remaining: 0:05:33)\u001b[0m"
+    ],
+    [
+      1.048964,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000149,
+      "\u001b[0m    box: Progress: 2% (Rate: 2108k/s, Estimated time remaining: 0:05:11)\u001b[0m"
+    ],
+    [
+      0.945246,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000182,
+      "\u001b[0m    box: Progress: 3% (Rate: 2157k/s, Estimated time remaining: 0:04:52)\u001b[0m"
+    ],
+    [
+      1.01429,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000256,
+      "\u001b[0m    box: Progress: 3% (Rate: 2142k/s, Estimated time remaining: 0:04:38)\u001b[0m"
+    ],
+    [
+      0.999915,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000782,
+      "\u001b[0m    box: Progress: 4% (Rate: 2098k/s, Estimated time remaining: 0:04:32)\u001b[0m"
+    ],
+    [
+      1.004407,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000227,
+      "\u001b[0m    box: Progress: 4% (Rate: 2043k/s, Estimated time remaining: 0:04:23)\u001b[0m"
+    ],
+    [
+      1.001337,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000321,
+      "\u001b[0m    box: Progress: 5% (Rate: 2020k/s, Estimated time remaining: 0:04:18)\u001b[0m"
+    ],
+    [
+      0.986265,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000357,
+      "\u001b[0m    box: Progress: 5% (Rate: 2026k/s, Estimated time remaining: 0:04:10)\u001b[0m"
+    ],
+    [
+      1.002671,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000812,
+      "\u001b[0m    box: Progress: 6% (Rate: 2022k/s, Estimated time remaining: 0:04:04)\u001b[0m"
+    ],
+    [
+      0.998428,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m    box: Progress: 6% (Rate: 2100k/s, Estimated time remaining: 0:03:58)\u001b[0m"
+    ],
+    [
+      1.023781,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000429,
+      "\u001b[0m    box: Progress: 7% (Rate: 2132k/s, Estimated time remaining: 0:03:52)\u001b[0m"
+    ],
+    [
+      1.074378,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000131,
+      "\u001b[0m    box: Progress: 7% (Rate: 2157k/s, Estimated time remaining: 0:03:49)\u001b[0m"
+    ],
+    [
+      1.107641,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000304,
+      "\u001b[0m    box: Progress: 7% (Rate: 1823k/s, Estimated time remaining: 0:03:57)\u001b[0m"
+    ],
+    [
+      0.832156,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000208,
+      "\u001b[0m    box: Progress: 8% (Rate: 1406k/s, Estimated time remaining: 0:04:08)\u001b[0m"
+    ],
+    [
+      0.950576,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00075,
+      "\u001b[0m    box: Progress: 8% (Rate: 1393k/s, Estimated time remaining: 0:04:03)\u001b[0m"
+    ],
+    [
+      1.007296,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000191,
+      "\u001b[0m    box: Progress: 8% (Rate: 1303k/s, Estimated time remaining: 0:04:01)\u001b[0m"
+    ],
+    [
+      1.022724,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\u001b[0m    box: Progress: 9% (Rate: 1272k/s, Estimated time remaining: 0:03:58)\u001b[0m"
+    ],
+    [
+      0.968843,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000977,
+      "\u001b[0m    box: Progress: 9% (Rate: 1618k/s, Estimated time remaining: 0:03:53)\u001b[0m"
+    ],
+    [
+      1.681355,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000169,
+      "\u001b[0m    box: Progress: 10% (Rate: 2089k/s, Estimated time remaining: 0:03:48)\u001b[0m"
+    ],
+    [
+      0.515447,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000189,
+      "\u001b[0m    box: Progress: 10% (Rate: 1796k/s, Estimated time remaining: 0:03:51)\u001b[0m"
+    ],
+    [
+      1.231355,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001307,
+      "\u001b[0m    box: Progress: 10% (Rate: 1630k/s, Estimated time remaining: 0:03:55)\u001b[0m"
+    ],
+    [
+      0.863182,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000262,
+      "\u001b[0m    box: Progress: 10% (Rate: 1263k/s, Estimated time remaining: 0:04:04)\u001b[0m"
+    ],
+    [
+      1.018914,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000889,
+      "\u001b[0m    box: Progress: 10% (Rate: 886k/s, Estimated time remaining: 0:04:10)\u001b[0m"
+    ],
+    [
+      1.081703,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000194,
+      "\u001b[0m    box: Progress: 10% (Rate: 504k/s, Estimated time remaining: 0:04:17)\u001b[0m"
+    ],
+    [
+      0.769347,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000194,
+      "\u001b[0m    box: Progress: 10% (Rate: 148k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      0.83925,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000226,
+      "\u001b[0m    box: Progress: 11% (Rate: 383k/s, Estimated time remaining: 0:04:24)\u001b[0m"
+    ],
+    [
+      0.999863,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000199,
+      "\u001b[0m    box: Progress: 11% (Rate: 498k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      1.027933,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000165,
+      "\u001b[0m    box: Progress: 11% (Rate: 644k/s, Estimated time remaining: 0:04:29)\u001b[0m"
+    ],
+    [
+      1.041829,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000241,
+      "\u001b[0m    box: Progress: 11% (Rate: 787k/s, Estimated time remaining: 0:04:31)\u001b[0m"
+    ],
+    [
+      1.059807,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000136,
+      "\u001b[0m    box: Progress: 12% (Rate: 989k/s, Estimated time remaining: 0:04:33)\u001b[0m"
+    ],
+    [
+      0.919181,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m    box: Progress: 12% (Rate: 846k/s, Estimated time remaining: 0:04:35)\u001b[0m"
+    ],
+    [
+      0.945332,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00022,
+      "\u001b[0m    box: Progress: 12% (Rate: 894k/s, Estimated time remaining: 0:04:36)\u001b[0m"
+    ],
+    [
+      1.017223,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000206,
+      "\u001b[0m    box: Progress: 12% (Rate: 920k/s, Estimated time remaining: 0:04:37)\u001b[0m"
+    ],
+    [
+      1.081021,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000512,
+      "\u001b[0m    box: Progress: 12% (Rate: 934k/s, Estimated time remaining: 0:04:39)\u001b[0m"
+    ],
+    [
+      0.9431,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[0m    box: Progress: 13% (Rate: 961k/s, Estimated time remaining: 0:04:39)\u001b[0m"
+    ],
+    [
+      1.033543,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    box: Progress: 13% (Rate: 1044k/s, Estimated time remaining: 0:04:39)\u001b[0m"
+    ],
+    [
+      1.147005,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000275,
+      "\u001b[0m    box: Progress: 13% (Rate: 1125k/s, Estimated time remaining: 0:04:37)\u001b[0m"
+    ],
+    [
+      1.008565,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000126,
+      "\u001b[0m    box: Progress: 13% (Rate: 995k/s, Estimated time remaining: 0:04:42)\u001b[0m"
+    ],
+    [
+      1.30531,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000369,
+      "\u001b[0m    box: Progress: 13% (Rate: 827k/s, Estimated time remaining: 0:04:48)\u001b[0m"
+    ],
+    [
+      0.486985,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000377,
+      "\u001b[0m    box: Progress: 13% (Rate: 609k/s, Estimated time remaining: 0:04:55)\u001b[0m"
+    ],
+    [
+      1.005553,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00016,
+      "\u001b[0m    box: Progress: 14% (Rate: 498k/s, Estimated time remaining: 0:04:56)\u001b[0m"
+    ],
+    [
+      1.032794,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\u001b[0m    box: Progress: 14% (Rate: 451k/s, Estimated time remaining: 0:04:55)\u001b[0m"
+    ],
+    [
+      0.971076,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000308,
+      "\u001b[0m    box: Progress: 14% (Rate: 583k/s, Estimated time remaining: 0:04:55)\u001b[0m"
+    ],
+    [
+      0.981626,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000274,
+      "\u001b[0m    box: Progress: 14% (Rate: 781k/s, Estimated time remaining: 0:04:55)\u001b[0m"
+    ],
+    [
+      1.01396,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    box: Progress: 15% (Rate: 1003k/s, Estimated time remaining: 0:04:56)\u001b[0m"
+    ],
+    [
+      0.968662,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000167,
+      "\u001b[0m    box: Progress: 15% (Rate: 1036k/s, Estimated time remaining: 0:04:57)\u001b[0m"
+    ],
+    [
+      1.027067,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000305,
+      "\u001b[0m    box: Progress: 15% (Rate: 947k/s, Estimated time remaining: 0:04:58)\u001b[0m"
+    ],
+    [
+      0.980527,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000241,
+      "\u001b[0m    box: Progress: 15% (Rate: 886k/s, Estimated time remaining: 0:04:59)\u001b[0m"
+    ],
+    [
+      0.991519,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000318,
+      "\u001b[0m    box: Progress: 15% (Rate: 852k/s, Estimated time remaining: 0:05:00)\u001b[0m"
+    ],
+    [
+      1.008747,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000218,
+      "\u001b[0m    box: Progress: 15% (Rate: 826k/s, Estimated time remaining: 0:05:01)\u001b[0m"
+    ],
+    [
+      1.020128,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[0m    box: Progress: 16% (Rate: 776k/s, Estimated time remaining: 0:05:03)\u001b[0m"
+    ],
+    [
+      0.97246,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000154,
+      "\u001b[0m    box: Progress: 16% (Rate: 772k/s, Estimated time remaining: 0:05:04)\u001b[0m"
+    ],
+    [
+      1.033087,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000202,
+      "\u001b[0m    box: Progress: 16% (Rate: 788k/s, Estimated time remaining: 0:05:05)\u001b[0m"
+    ],
+    [
+      0.992496,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000173,
+      "\u001b[0m    box: Progress: 16% (Rate: 789k/s, Estimated time remaining: 0:05:05)\u001b[0m"
+    ],
+    [
+      0.986675,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000271,
+      "\u001b[0m    box: Progress: 16% (Rate: 821k/s, Estimated time remaining: 0:05:06)\u001b[0m"
+    ],
+    [
+      0.990185,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    box: Progress: 17% (Rate: 882k/s, Estimated time remaining: 0:05:05)\u001b[0m"
+    ],
+    [
+      1.376918,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000194,
+      "\u001b[0m    box: Progress: 17% (Rate: 946k/s, Estimated time remaining: 0:05:04)\u001b[0m"
+    ],
+    [
+      1.001331,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000174,
+      "\u001b[0m    box: Progress: 17% (Rate: 785k/s, Estimated time remaining: 0:05:10)\u001b[0m"
+    ],
+    [
+      0.735283,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000395,
+      "\u001b[0m    box: Progress: 17% (Rate: 625k/s, Estimated time remaining: 0:05:15)\u001b[0m"
+    ],
+    [
+      0.999939,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000305,
+      "\u001b[0m    box: Progress: 17% (Rate: 478k/s, Estimated time remaining: 0:05:18)\u001b[0m"
+    ],
+    [
+      0.898459,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\u001b[0m    box: Progress: 17% (Rate: 272k/s, Estimated time remaining: 0:05:22)\u001b[0m"
+    ],
+    [
+      1.019086,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00036,
+      "\u001b[0m    box: Progress: 17% (Rate: 67392/s, Estimated time remaining: 0:05:26)\u001b[0m"
+    ],
+    [
+      1.046751,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000359,
+      "\u001b[0m    box: Progress: 17% (Rate: 158k/s, Estimated time remaining: 0:05:27)\u001b[0m"
+    ],
+    [
+      0.942591,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000137,
+      "\u001b[0m    box: Progress: 17% (Rate: 375k/s, Estimated time remaining: 0:05:27)\u001b[0m"
+    ],
+    [
+      0.972215,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000109,
+      "\u001b[0m    box: Progress: 18% (Rate: 627k/s, Estimated time remaining: 0:05:24)\u001b[0m"
+    ],
+    [
+      0.99993,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000283,
+      "\u001b[0m    box: Progress: 18% (Rate: 891k/s, Estimated time remaining: 0:05:22)\u001b[0m"
+    ],
+    [
+      1.026746,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000255,
+      "\u001b[0m    box: Progress: 18% (Rate: 1172k/s, Estimated time remaining: 0:05:19)\u001b[0m"
+    ],
+    [
+      0.972421,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000275,
+      "\u001b[0m    box: Progress: 19% (Rate: 1413k/s, Estimated time remaining: 0:05:14)\u001b[0m"
+    ],
+    [
+      1.027625,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000203,
+      "\u001b[0m    box: Progress: 19% (Rate: 1687k/s, Estimated time remaining: 0:05:08)\u001b[0m"
+    ],
+    [
+      0.997336,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000264,
+      "\u001b[0m    box: Progress: 20% (Rate: 1731k/s, Estimated time remaining: 0:05:04)\u001b[0m"
+    ],
+    [
+      0.974537,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000459,
+      "\u001b[0m    box: Progress: 20% (Rate: 1849k/s, Estimated time remaining: 0:05:00)\u001b[0m"
+    ],
+    [
+      1.319753,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000148,
+      "\u001b[0m    box: Progress: 21% (Rate: 1959k/s, Estimated time remaining: 0:04:55)\u001b[0m"
+    ],
+    [
+      0.770673,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m    box: Progress: 21% (Rate: 1517k/s, Estimated time remaining: 0:05:00)\u001b[0m"
+    ],
+    [
+      0.909441,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\u001b[0m    box: Progress: 21% (Rate: 1227k/s, Estimated time remaining: 0:05:00)\u001b[0m"
+    ],
+    [
+      1.001356,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000238,
+      "\u001b[0m    box: Progress: 21% (Rate: 1266k/s, Estimated time remaining: 0:04:56)\u001b[0m"
+    ],
+    [
+      1.025842,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000383,
+      "\u001b[0m    box: Progress: 22% (Rate: 1172k/s, Estimated time remaining: 0:04:54)\u001b[0m"
+    ],
+    [
+      1.054531,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000258,
+      "\u001b[0m    box: Progress: 22% (Rate: 1016k/s, Estimated time remaining: 0:04:53)\u001b[0m"
+    ],
+    [
+      0.923766,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[0m    box: Progress: 22% (Rate: 1346k/s, Estimated time remaining: 0:04:51)\u001b[0m"
+    ],
+    [
+      0.998185,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000448,
+      "\u001b[0m    box: Progress: 23% (Rate: 1479k/s, Estimated time remaining: 0:04:48)\u001b[0m"
+    ],
+    [
+      1.02647,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000284,
+      "\u001b[0m    box: Progress: 23% (Rate: 1386k/s, Estimated time remaining: 0:04:47)\u001b[0m"
+    ],
+    [
+      0.967192,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000129,
+      "\u001b[0m    box: Progress: 23% (Rate: 1395k/s, Estimated time remaining: 0:04:44)\u001b[0m"
+    ],
+    [
+      0.999809,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000148,
+      "\u001b[0m    box: Progress: 24% (Rate: 1414k/s, Estimated time remaining: 0:04:42)\u001b[0m"
+    ],
+    [
+      1.001242,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    box: Progress: 24% (Rate: 1436k/s, Estimated time remaining: 0:04:40)\u001b[0m"
+    ],
+    [
+      1.004614,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\u001b[0m    box: Progress: 24% (Rate: 1442k/s, Estimated time remaining: 0:04:38)\u001b[0m"
+    ],
+    [
+      1.319815,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000341,
+      "\u001b[0m    box: Progress: 25% (Rate: 1463k/s, Estimated time remaining: 0:04:36)\u001b[0m"
+    ],
+    [
+      0.792889,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000316,
+      "\u001b[0m    box: Progress: 25% (Rate: 1202k/s, Estimated time remaining: 0:04:38)\u001b[0m"
+    ],
+    [
+      0.92592,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000393,
+      "\u001b[0m    box: Progress: 25% (Rate: 1157k/s, Estimated time remaining: 0:04:37)\u001b[0m"
+    ],
+    [
+      0.954054,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000348,
+      "\u001b[0m    box: Progress: 25% (Rate: 1122k/s, Estimated time remaining: 0:04:36)\u001b[0m"
+    ],
+    [
+      1.367092,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000208,
+      "\u001b[0m    box: Progress: 26% (Rate: 1119k/s, Estimated time remaining: 0:04:34)\u001b[0m"
+    ],
+    [
+      0.768109,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000155,
+      "\u001b[0m    box: Progress: 26% (Rate: 868k/s, Estimated time remaining: 0:04:36)\u001b[0m"
+    ],
+    [
+      0.864898,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[0m    box: Progress: 26% (Rate: 973k/s, Estimated time remaining: 0:04:36)\u001b[0m"
+    ],
+    [
+      1.061529,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000235,
+      "\u001b[0m    box: Progress: 26% (Rate: 1019k/s, Estimated time remaining: 0:04:34)\u001b[0m"
+    ],
+    [
+      1.023538,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000199,
+      "\u001b[0m    box: Progress: 26% (Rate: 984k/s, Estimated time remaining: 0:04:34)\u001b[0m"
+    ],
+    [
+      0.915906,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000158,
+      "\u001b[0m    box: Progress: 27% (Rate: 955k/s, Estimated time remaining: 0:04:32)\u001b[0m"
+    ],
+    [
+      1.023591,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00026,
+      "\u001b[0m    box: Progress: 27% (Rate: 1191k/s, Estimated time remaining: 0:04:30)\u001b[0m"
+    ],
+    [
+      1.026453,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000307,
+      "\u001b[0m    box: Progress: 27% (Rate: 1252k/s, Estimated time remaining: 0:04:29)\u001b[0m"
+    ],
+    [
+      0.967608,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[0m    box: Progress: 28% (Rate: 1256k/s, Estimated time remaining: 0:04:28)\u001b[0m"
+    ],
+    [
+      0.986385,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000116,
+      "\u001b[0m    box: Progress: 28% (Rate: 1287k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      0.993149,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000246,
+      "\u001b[0m    box: Progress: 28% (Rate: 1204k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      1.021158,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\u001b[0m    box: Progress: 28% (Rate: 1090k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      0.989631,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\u001b[0m    box: Progress: 28% (Rate: 1018k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      1.008593,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000178,
+      "\u001b[0m    box: Progress: 29% (Rate: 923k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      1.072673,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000301,
+      "\u001b[0m    box: Progress: 29% (Rate: 796k/s, Estimated time remaining: 0:04:27)\u001b[0m"
+    ],
+    [
+      0.921505,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00026,
+      "\u001b[0m    box: Progress: 29% (Rate: 775k/s, Estimated time remaining: 0:04:27)\u001b[0m"
+    ],
+    [
+      1.057679,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000322,
+      "\u001b[0m    box: Progress: 29% (Rate: 791k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      0.945006,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000238,
+      "\u001b[0m    box: Progress: 29% (Rate: 786k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      1.025359,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m    box: Progress: 30% (Rate: 783k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      0.964558,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000461,
+      "\u001b[0m    box: Progress: 30% (Rate: 854k/s, Estimated time remaining: 0:04:26)\u001b[0m"
+    ],
+    [
+      1.007526,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000358,
+      "\u001b[0m    box: Progress: 30% (Rate: 933k/s, Estimated time remaining: 0:04:24)\u001b[0m"
+    ],
+    [
+      0.98937,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000193,
+      "\u001b[0m    box: Progress: 30% (Rate: 1015k/s, Estimated time remaining: 0:04:23)\u001b[0m"
+    ],
+    [
+      1.007659,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000209,
+      "\u001b[0m    box: Progress: 31% (Rate: 1194k/s, Estimated time remaining: 0:04:21)\u001b[0m"
+    ],
+    [
+      0.987281,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      6.9e-05,
+      "\u001b[0m    box: Progress: 31% (Rate: 1390k/s, Estimated time remaining: 0:04:17)\u001b[0m"
+    ],
+    [
+      1.004298,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000353,
+      "\u001b[0m    box: Progress: 32% (Rate: 1619k/s, Estimated time remaining: 0:04:14)\u001b[0m"
+    ],
+    [
+      0.994474,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\u001b[0m    box: Progress: 32% (Rate: 1654k/s, Estimated time remaining: 0:04:12)\u001b[0m"
+    ],
+    [
+      1.075619,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000877,
+      "\u001b[0m    box: Progress: 32% (Rate: 1736k/s, Estimated time remaining: 0:04:10)\u001b[0m"
+    ],
+    [
+      0.929635,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      6.4e-05,
+      "\u001b[0m    box: Progress: 33% (Rate: 1725k/s, Estimated time remaining: 0:04:07)\u001b[0m"
+    ],
+    [
+      1.013565,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00015,
+      "\u001b[0m    box: Progress: 33% (Rate: 1661k/s, Estimated time remaining: 0:04:06)\u001b[0m"
+    ],
+    [
+      1.007472,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000152,
+      "\u001b[0m    box: Progress: 34% (Rate: 1569k/s, Estimated time remaining: 0:04:03)\u001b[0m"
+    ],
+    [
+      1.025602,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000228,
+      "\u001b[0m    box: Progress: 34% (Rate: 1641k/s, Estimated time remaining: 0:04:01)\u001b[0m"
+    ],
+    [
+      0.945859,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00022,
+      "\u001b[0m    box: Progress: 34% (Rate: 1664k/s, Estimated time remaining: 0:03:58)\u001b[0m"
+    ],
+    [
+      1.035612,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.001147,
+      "\u001b[0m    box: Progress: 35% (Rate: 1673k/s, Estimated time remaining: 0:03:56)\u001b[0m"
+    ],
+    [
+      0.962487,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[0m    box: Progress: 35% (Rate: 1723k/s, Estimated time remaining: 0:03:54)\u001b[0m"
+    ],
+    [
+      1.031573,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0m    box: Progress: 36% (Rate: 1725k/s, Estimated time remaining: 0:03:52)\u001b[0m"
+    ],
+    [
+      0.978457,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000481,
+      "\u001b[0m    box: Progress: 36% (Rate: 1735k/s, Estimated time remaining: 0:03:49)\u001b[0m"
+    ],
+    [
+      0.999544,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000107,
+      "\u001b[0m    box: Progress: 36% (Rate: 1759k/s, Estimated time remaining: 0:03:47)\u001b[0m"
+    ],
+    [
+      0.991271,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000311,
+      "\u001b[0m    box: Progress: 37% (Rate: 1803k/s, Estimated time remaining: 0:03:44)\u001b[0m"
+    ],
+    [
+      1.003153,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\u001b[0m    box: Progress: 37% (Rate: 1862k/s, Estimated time remaining: 0:03:41)\u001b[0m"
+    ],
+    [
+      0.996943,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\u001b[0m    box: Progress: 38% (Rate: 2005k/s, Estimated time remaining: 0:03:37)\u001b[0m"
+    ],
+    [
+      0.998596,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000261,
+      "\u001b[0m    box: Progress: 38% (Rate: 2094k/s, Estimated time remaining: 0:03:34)\u001b[0m"
+    ],
+    [
+      0.99889,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000462,
+      "\u001b[0m    box: Progress: 39% (Rate: 2115k/s, Estimated time remaining: 0:03:32)\u001b[0m"
+    ],
+    [
+      0.99972,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000308,
+      "\u001b[0m    box: Progress: 39% (Rate: 2163k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      1.227037,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[0m    box: Progress: 40% (Rate: 2226k/s, Estimated time remaining: 0:03:25)\u001b[0m"
+    ],
+    [
+      0.787118,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m    box: Progress: 40% (Rate: 2082k/s, Estimated time remaining: 0:03:23)\u001b[0m"
+    ],
+    [
+      1.940916,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000168,
+      "\u001b[0m    box: Progress: 41% (Rate: 2074k/s, Estimated time remaining: 0:03:21)\u001b[0m"
+    ],
+    [
+      0.810974,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000267,
+      "\u001b[0m    box: Progress: 41% (Rate: 1737k/s, Estimated time remaining: 0:03:20)\u001b[0m"
+    ],
+    [
+      0.509079,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000106,
+      "\u001b[0m    box: Progress: 41% (Rate: 1422k/s, Estimated time remaining: 0:03:21)\u001b[0m"
+    ],
+    [
+      0.773217,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000554,
+      "\u001b[0m    box: Progress: 41% (Rate: 1097k/s, Estimated time remaining: 0:03:22)\u001b[0m"
+    ],
+    [
+      1.396854,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000277,
+      "\u001b[0m    box: Progress: 41% (Rate: 858k/s, Estimated time remaining: 0:03:22)\u001b[0m"
+    ],
+    [
+      0.847146,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000197,
+      "\u001b[0m    box: Progress: 41% (Rate: 471k/s, Estimated time remaining: 0:03:24)\u001b[0m"
+    ],
+    [
+      0.820019,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000265,
+      "\u001b[0m    box: Progress: 41% (Rate: 144k/s, Estimated time remaining: 0:03:25)\u001b[0m"
+    ],
+    [
+      0.936331,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00015,
+      "\u001b[0m    box: Progress: 41% (Rate: 174k/s, Estimated time remaining: 0:03:26)\u001b[0m"
+    ],
+    [
+      0.949904,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\u001b[0m    box: Progress: 42% (Rate: 239k/s, Estimated time remaining: 0:03:26)\u001b[0m"
+    ],
+    [
+      1.049601,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000122,
+      "\u001b[0m    box: Progress: 42% (Rate: 223k/s, Estimated time remaining: 0:03:26)\u001b[0m"
+    ],
+    [
+      0.991004,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000181,
+      "\u001b[0m    box: Progress: 42% (Rate: 301k/s, Estimated time remaining: 0:03:27)\u001b[0m"
+    ],
+    [
+      0.961424,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    box: Progress: 42% (Rate: 395k/s, Estimated time remaining: 0:03:27)\u001b[0m"
+    ],
+    [
+      1.11524,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000113,
+      "\u001b[0m    box: Progress: 42% (Rate: 440k/s, Estimated time remaining: 0:03:28)\u001b[0m"
+    ],
+    [
+      0.917123,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000212,
+      "\u001b[0m    box: Progress: 42% (Rate: 419k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      1.019918,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000366,
+      "\u001b[0m    box: Progress: 42% (Rate: 441k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      0.959793,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000267,
+      "\u001b[0m    box: Progress: 42% (Rate: 455k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      0.994134,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000193,
+      "\u001b[0m    box: Progress: 42% (Rate: 465k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      1.031033,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00017,
+      "\u001b[0m    box: Progress: 43% (Rate: 503k/s, Estimated time remaining: 0:03:30)\u001b[0m"
+    ],
+    [
+      0.956991,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[0m    box: Progress: 43% (Rate: 607k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      1.015665,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000203,
+      "\u001b[0m    box: Progress: 43% (Rate: 700k/s, Estimated time remaining: 0:03:29)\u001b[0m"
+    ],
+    [
+      1.022925,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000235,
+      "\u001b[0m    box: Progress: 43% (Rate: 846k/s, Estimated time remaining: 0:03:27)\u001b[0m"
+    ],
+    [
+      0.973192,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000342,
+      "\u001b[0m    box: Progress: 44% (Rate: 1060k/s, Estimated time remaining: 0:03:25)\u001b[0m"
+    ],
+    [
+      1.002085,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000244,
+      "\u001b[0m    box: Progress: 44% (Rate: 1341k/s, Estimated time remaining: 0:03:23)\u001b[0m"
+    ],
+    [
+      0.995226,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00037,
+      "\u001b[0m    box: Progress: 45% (Rate: 1693k/s, Estimated time remaining: 0:03:19)\u001b[0m"
+    ],
+    [
+      0.991474,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000329,
+      "\u001b[0m    box: Progress: 46% (Rate: 2182k/s, Estimated time remaining: 0:03:14)\u001b[0m"
+    ],
+    [
+      0.999119,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.0002,
+      "\u001b[0m    box: Progress: 46% (Rate: 2694k/s, Estimated time remaining: 0:03:08)\u001b[0m"
+    ],
+    [
+      1.213499,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\u001b[0m    box: Progress: 47% (Rate: 3092k/s, Estimated time remaining: 0:03:03)\u001b[0m"
+    ],
+    [
+      0.886442,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000166,
+      "\u001b[0m    box: Progress: 48% (Rate: 3165k/s, Estimated time remaining: 0:02:59)\u001b[0m"
+    ],
+    [
+      0.921316,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00014,
+      "\u001b[0m    box: Progress: 48% (Rate: 2766k/s, Estimated time remaining: 0:03:00)\u001b[0m"
+    ],
+    [
+      1.230191,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    box: Progress: 48% (Rate: 2109k/s, Estimated time remaining: 0:03:01)\u001b[0m"
+    ],
+    [
+      0.876764,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000171,
+      "\u001b[0m    box: Progress: 48% (Rate: 1503k/s, Estimated time remaining: 0:03:01)\u001b[0m"
+    ],
+    [
+      0.912516,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000266,
+      "\u001b[0m    box: Progress: 48% (Rate: 874k/s, Estimated time remaining: 0:03:01)\u001b[0m"
+    ],
+    [
+      1.090256,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000172,
+      "\u001b[0m    box: Progress: 48% (Rate: 328k/s, Estimated time remaining: 0:03:02)\u001b[0m"
+    ],
+    [
+      0.891229,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000241,
+      "\u001b[0m    box: Progress: 48% (Rate: 338k/s, Estimated time remaining: 0:03:02)\u001b[0m"
+    ],
+    [
+      1.061237,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000255,
+      "\u001b[0m    box: Progress: 48% (Rate: 369k/s, Estimated time remaining: 0:03:03)\u001b[0m"
+    ],
+    [
+      1.109561,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000285,
+      "\u001b[0m    box: Progress: 48% (Rate: 198k/s, Estimated time remaining: 0:03:04)\u001b[0m"
+    ],
+    [
+      0.876795,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000317,
+      "\u001b[0m    box: Progress: 49% (Rate: 196k/s, Estimated time remaining: 0:03:05)\u001b[0m"
+    ],
+    [
+      0.929262,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000362,
+      "\u001b[0m    box: Progress: 49% (Rate: 188k/s, Estimated time remaining: 0:03:05)\u001b[0m"
+    ],
+    [
+      1.023964,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000305,
+      "\u001b[0m    box: Progress: 49% (Rate: 191k/s, Estimated time remaining: 0:03:06)\u001b[0m"
+    ],
+    [
+      0.974413,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.0003,
+      "\u001b[0m    box: Progress: 49% (Rate: 220k/s, Estimated time remaining: 0:03:06)\u001b[0m"
+    ],
+    [
+      1.032044,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000419,
+      "\u001b[0m    box: Progress: 49% (Rate: 267k/s, Estimated time remaining: 0:03:07)\u001b[0m"
+    ],
+    [
+      1.05649,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00026,
+      "\u001b[0m    box: Progress: 49% (Rate: 353k/s, Estimated time remaining: 0:03:07)\u001b[0m"
+    ],
+    [
+      0.949101,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000266,
+      "\u001b[0m    box: Progress: 49% (Rate: 467k/s, Estimated time remaining: 0:03:06)\u001b[0m"
+    ],
+    [
+      0.961567,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      7.9e-05,
+      "\u001b[0m    box: Progress: 49% (Rate: 631k/s, Estimated time remaining: 0:03:05)\u001b[0m"
+    ],
+    [
+      1.035273,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000231,
+      "\u001b[0m    box: Progress: 50% (Rate: 876k/s, Estimated time remaining: 0:03:04)\u001b[0m"
+    ],
+    [
+      1.011036,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000236,
+      "\u001b[0m    box: Progress: 50% (Rate: 1178k/s, Estimated time remaining: 0:03:01)\u001b[0m"
+    ],
+    [
+      1.001385,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000329,
+      "\u001b[0m    box: Progress: 51% (Rate: 1520k/s, Estimated time remaining: 0:02:59)\u001b[0m"
+    ],
+    [
+      1.05295,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0m    box: Progress: 51% (Rate: 1374k/s, Estimated time remaining: 0:03:00)\u001b[0m"
+    ],
+    [
+      0.895616,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000367,
+      "\u001b[0m    box: Progress: 51% (Rate: 1165k/s, Estimated time remaining: 0:03:00)\u001b[0m"
+    ],
+    [
+      1.019874,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000272,
+      "\u001b[0m    box: Progress: 51% (Rate: 1136k/s, Estimated time remaining: 0:02:59)\u001b[0m"
+    ],
+    [
+      0.980705,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00028,
+      "\u001b[0m    box: Progress: 52% (Rate: 1235k/s, Estimated time remaining: 0:02:56)\u001b[0m"
+    ],
+    [
+      0.998434,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00017,
+      "\u001b[0m    box: Progress: 52% (Rate: 1323k/s, Estimated time remaining: 0:02:52)\u001b[0m"
+    ],
+    [
+      1.000506,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000447,
+      "\u001b[0m    box: Progress: 53% (Rate: 1853k/s, Estimated time remaining: 0:02:49)\u001b[0m"
+    ],
+    [
+      0.998719,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\u001b[0m    box: Progress: 54% (Rate: 2442k/s, Estimated time remaining: 0:02:45)\u001b[0m"
+    ],
+    [
+      0.999961,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\u001b[0m    box: Progress: 54% (Rate: 2749k/s, Estimated time remaining: 0:02:41)\u001b[0m"
+    ],
+    [
+      1.026731,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000138,
+      "\u001b[0m    box: Progress: 55% (Rate: 2845k/s, Estimated time remaining: 0:02:38)\u001b[0m"
+    ],
+    [
+      0.983156,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000229,
+      "\u001b[0m    box: Progress: 56% (Rate: 2912k/s, Estimated time remaining: 0:02:34)\u001b[0m"
+    ],
+    [
+      0.992725,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\u001b[0m    box: Progress: 56% (Rate: 3019k/s, Estimated time remaining: 0:02:30)\u001b[0m"
+    ],
+    [
+      1.036072,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000343,
+      "\u001b[0m    box: Progress: 57% (Rate: 3058k/s, Estimated time remaining: 0:02:27)\u001b[0m"
+    ],
+    [
+      1.080825,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000294,
+      "\u001b[0m    box: Progress: 58% (Rate: 3057k/s, Estimated time remaining: 0:02:23)\u001b[0m"
+    ],
+    [
+      0.87898,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000335,
+      "\u001b[0m    box: Progress: 58% (Rate: 2936k/s, Estimated time remaining: 0:02:20)\u001b[0m"
+    ],
+    [
+      1.063101,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\u001b[0m    box: Progress: 59% (Rate: 2751k/s, Estimated time remaining: 0:02:19)\u001b[0m"
+    ],
+    [
+      0.940417,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000154,
+      "\u001b[0m    box: Progress: 59% (Rate: 2317k/s, Estimated time remaining: 0:02:18)\u001b[0m"
+    ],
+    [
+      0.995936,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000124,
+      "\u001b[0m    box: Progress: 59% (Rate: 2022k/s, Estimated time remaining: 0:02:16)\u001b[0m"
+    ],
+    [
+      1.174951,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00014,
+      "\u001b[0m    box: Progress: 60% (Rate: 1884k/s, Estimated time remaining: 0:02:14)\u001b[0m"
+    ],
+    [
+      1.63794,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000278,
+      "\u001b[0m    box: Progress: 60% (Rate: 1513k/s, Estimated time remaining: 0:02:14)\u001b[0m"
+    ],
+    [
+      0.41431,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000298,
+      "\u001b[0m    box: Progress: 60% (Rate: 1032k/s, Estimated time remaining: 0:02:14)\u001b[0m"
+    ],
+    [
+      0.771835,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000233,
+      "\u001b[0m    box: Progress: 60% (Rate: 940k/s, Estimated time remaining: 0:02:15)\u001b[0m"
+    ],
+    [
+      1.000001,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00023,
+      "\u001b[0m    box: Progress: 61% (Rate: 986k/s, Estimated time remaining: 0:02:13)\u001b[0m"
+    ],
+    [
+      1.015843,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000411,
+      "\u001b[0m    box: Progress: 61% (Rate: 781k/s, Estimated time remaining: 0:02:12)\u001b[0m"
+    ],
+    [
+      1.025825,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000113,
+      "\u001b[0m    box: Progress: 61% (Rate: 957k/s, Estimated time remaining: 0:02:11)\u001b[0m"
+    ],
+    [
+      0.957597,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00018,
+      "\u001b[0m    box: Progress: 62% (Rate: 1427k/s, Estimated time remaining: 0:02:09)\u001b[0m"
+    ],
+    [
+      1.037404,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000348,
+      "\u001b[0m    box: Progress: 62% (Rate: 1568k/s, Estimated time remaining: 0:02:08)\u001b[0m"
+    ],
+    [
+      0.975957,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      7.5e-05,
+      "\u001b[0m    box: Progress: 62% (Rate: 1480k/s, Estimated time remaining: 0:02:07)\u001b[0m"
+    ],
+    [
+      0.993435,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00025,
+      "\u001b[0m    box: Progress: 63% (Rate: 1506k/s, Estimated time remaining: 0:02:05)\u001b[0m"
+    ],
+    [
+      0.995939,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\u001b[0m    box: Progress: 63% (Rate: 1517k/s, Estimated time remaining: 0:02:04)\u001b[0m"
+    ],
+    [
+      1.059416,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000203,
+      "\u001b[0m    box: Progress: 63% (Rate: 1529k/s, Estimated time remaining: 0:02:02)\u001b[0m"
+    ],
+    [
+      1.117024,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000235,
+      "\u001b[0m    box: Progress: 64% (Rate: 1510k/s, Estimated time remaining: 0:02:01)\u001b[0m"
+    ],
+    [
+      0.823361,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00028,
+      "\u001b[0m    box: Progress: 64% (Rate: 1337k/s, Estimated time remaining: 0:02:01)\u001b[0m"
+    ],
+    [
+      1.326803,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00022,
+      "\u001b[0m    box: Progress: 64% (Rate: 1109k/s, Estimated time remaining: 0:02:01)\u001b[0m"
+    ],
+    [
+      0.740462,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000296,
+      "\u001b[0m    box: Progress: 64% (Rate: 865k/s, Estimated time remaining: 0:02:01)\u001b[0m"
+    ],
+    [
+      0.927867,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\u001b[0m    box: Progress: 64% (Rate: 773k/s, Estimated time remaining: 0:02:01)\u001b[0m"
+    ],
+    [
+      1.042831,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000232,
+      "\u001b[0m    box: Progress: 64% (Rate: 603k/s, Estimated time remaining: 0:02:00)\u001b[0m"
+    ],
+    [
+      1.024376,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[0m    box: Progress: 65% (Rate: 597k/s, Estimated time remaining: 0:02:00)\u001b[0m"
+    ],
+    [
+      0.955682,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000213,
+      "\u001b[0m    box: Progress: 65% (Rate: 691k/s, Estimated time remaining: 0:02:00)\u001b[0m"
+    ],
+    [
+      0.991399,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000189,
+      "\u001b[0m    box: Progress: 65% (Rate: 767k/s, Estimated time remaining: 0:01:59)\u001b[0m"
+    ],
+    [
+      0.988546,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000199,
+      "\u001b[0m    box: Progress: 65% (Rate: 696k/s, Estimated time remaining: 0:01:59)\u001b[0m"
+    ],
+    [
+      1.030955,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000272,
+      "\u001b[0m    box: Progress: 65% (Rate: 736k/s, Estimated time remaining: 0:01:58)\u001b[0m"
+    ],
+    [
+      1.027721,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000143,
+      "\u001b[0m    box: Progress: 66% (Rate: 756k/s, Estimated time remaining: 0:01:58)\u001b[0m"
+    ],
+    [
+      0.944208,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[0m    box: Progress: 66% (Rate: 776k/s, Estimated time remaining: 0:01:57)\u001b[0m"
+    ],
+    [
+      1.028982,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000129,
+      "\u001b[0m    box: Progress: 66% (Rate: 793k/s, Estimated time remaining: 0:01:57)\u001b[0m"
+    ],
+    [
+      0.973096,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\u001b[0m    box: Progress: 66% (Rate: 846k/s, Estimated time remaining: 0:01:56)\u001b[0m"
+    ],
+    [
+      1.031599,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\u001b[0m    box: Progress: 66% (Rate: 915k/s, Estimated time remaining: 0:01:55)\u001b[0m"
+    ],
+    [
+      0.969313,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000202,
+      "\u001b[0m    box: Progress: 67% (Rate: 1032k/s, Estimated time remaining: 0:01:54)\u001b[0m"
+    ],
+    [
+      1.024347,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\u001b[0m    box: Progress: 67% (Rate: 1208k/s, Estimated time remaining: 0:01:53)\u001b[0m"
+    ],
+    [
+      0.964077,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\u001b[0m    box: Progress: 68% (Rate: 1431k/s, Estimated time remaining: 0:01:51)\u001b[0m"
+    ],
+    [
+      1.105679,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00016,
+      "\u001b[0m    box: Progress: 68% (Rate: 1784k/s, Estimated time remaining: 0:01:48)\u001b[0m"
+    ],
+    [
+      0.957421,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000224,
+      "\u001b[0m    box: Progress: 69% (Rate: 2008k/s, Estimated time remaining: 0:01:46)\u001b[0m"
+    ],
+    [
+      1.106683,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000301,
+      "\u001b[0m    box: Progress: 69% (Rate: 2192k/s, Estimated time remaining: 0:01:43)\u001b[0m"
+    ],
+    [
+      1.029516,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000153,
+      "\u001b[0m    box: Progress: 69% (Rate: 1856k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      1.008149,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000358,
+      "\u001b[0m    box: Progress: 69% (Rate: 1495k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      0.791067,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000127,
+      "\u001b[0m    box: Progress: 69% (Rate: 982k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      1.011896,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000284,
+      "\u001b[0m    box: Progress: 70% (Rate: 625k/s, Estimated time remaining: 0:01:44)\u001b[0m"
+    ],
+    [
+      0.991858,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000563,
+      "\u001b[0m    box: Progress: 70% (Rate: 476k/s, Estimated time remaining: 0:01:43)\u001b[0m"
+    ],
+    [
+      1.011996,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\u001b[0m    box: Progress: 70% (Rate: 717k/s, Estimated time remaining: 0:01:42)\u001b[0m"
+    ],
+    [
+      1.120983,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000255,
+      "\u001b[0m    box: Progress: 71% (Rate: 984k/s, Estimated time remaining: 0:01:40)\u001b[0m"
+    ],
+    [
+      0.866381,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000158,
+      "\u001b[0m    box: Progress: 71% (Rate: 1214k/s, Estimated time remaining: 0:01:40)\u001b[0m"
+    ],
+    [
+      1.014593,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000208,
+      "\u001b[0m    box: Progress: 71% (Rate: 1373k/s, Estimated time remaining: 0:01:38)\u001b[0m"
+    ],
+    [
+      1.046021,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000336,
+      "\u001b[0m    box: Progress: 71% (Rate: 1308k/s, Estimated time remaining: 0:01:37)\u001b[0m"
+    ],
+    [
+      0.958782,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000141,
+      "\u001b[0m    box: Progress: 72% (Rate: 1290k/s, Estimated time remaining: 0:01:36)\u001b[0m"
+    ],
+    [
+      0.996409,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    box: Progress: 72% (Rate: 1276k/s, Estimated time remaining: 0:01:35)\u001b[0m"
+    ],
+    [
+      1.018835,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[0m    box: Progress: 72% (Rate: 1237k/s, Estimated time remaining: 0:01:35)\u001b[0m"
+    ],
+    [
+      0.995218,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000296,
+      "\u001b[0m    box: Progress: 72% (Rate: 1043k/s, Estimated time remaining: 0:01:34)\u001b[0m"
+    ],
+    [
+      0.971825,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000312,
+      "\u001b[0m    box: Progress: 73% (Rate: 994k/s, Estimated time remaining: 0:01:34)\u001b[0m"
+    ],
+    [
+      1.016751,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000283,
+      "\u001b[0m    box: Progress: 73% (Rate: 942k/s, Estimated time remaining: 0:01:33)\u001b[0m"
+    ],
+    [
+      0.993304,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[0m    box: Progress: 73% (Rate: 854k/s, Estimated time remaining: 0:01:32)\u001b[0m"
+    ],
+    [
+      1.003604,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000274,
+      "\u001b[0m    box: Progress: 73% (Rate: 832k/s, Estimated time remaining: 0:01:32)\u001b[0m"
+    ],
+    [
+      0.996269,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000229,
+      "\u001b[0m    box: Progress: 73% (Rate: 913k/s, Estimated time remaining: 0:01:31)\u001b[0m"
+    ],
+    [
+      0.98119,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000265,
+      "\u001b[0m    box: Progress: 74% (Rate: 956k/s, Estimated time remaining: 0:01:30)\u001b[0m"
+    ],
+    [
+      0.999721,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000215,
+      "\u001b[0m    box: Progress: 74% (Rate: 1082k/s, Estimated time remaining: 0:01:29)\u001b[0m"
+    ],
+    [
+      0.999523,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000211,
+      "\u001b[0m    box: Progress: 75% (Rate: 1368k/s, Estimated time remaining: 0:01:27)\u001b[0m"
+    ],
+    [
+      1.007605,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000254,
+      "\u001b[0m    box: Progress: 75% (Rate: 1793k/s, Estimated time remaining: 0:01:24)\u001b[0m"
+    ],
+    [
+      0.995884,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000304,
+      "\u001b[0m    box: Progress: 76% (Rate: 2279k/s, Estimated time remaining: 0:01:20)\u001b[0m"
+    ],
+    [
+      1.000982,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000355,
+      "\u001b[0m    box: Progress: 77% (Rate: 2781k/s, Estimated time remaining: 0:01:17)\u001b[0m"
+    ],
+    [
+      1.175244,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000164,
+      "\u001b[0m    box: Progress: 78% (Rate: 3206k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.011328,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00026,
+      "\u001b[0m    box: Progress: 78% (Rate: 2786k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.003804,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000246,
+      "\u001b[0m    box: Progress: 78% (Rate: 2220k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      1.003982,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000301,
+      "\u001b[0m    box: Progress: 78% (Rate: 1569k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      1.439509,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.0002,
+      "\u001b[0m    box: Progress: 78% (Rate: 873k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      0.767782,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000288,
+      "\u001b[0m    box: Progress: 78% (Rate: 131k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      0.736006,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m    box: Progress: 78% (Rate: 16344/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      0.897326,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000419,
+      "\u001b[0m    box: Progress: 78% (Rate: 13740/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.023901,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000267,
+      "\u001b[0m    box: Progress: 78% (Rate: 37051/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.08248,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000179,
+      "\u001b[0m    box: Progress: 78% (Rate: 66940/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.667032,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000222,
+      "\u001b[0m    box: Progress: 78% (Rate: 111k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.00443,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000328,
+      "\u001b[0m    box: Progress: 78% (Rate: 131k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      0.770196,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000513,
+      "\u001b[0m    box: Progress: 78% (Rate: 116k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      0.594172,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000216,
+      "\u001b[0m    box: Progress: 78% (Rate: 99k/s, Estimated time remaining: 0:01:16)\u001b[0m"
+    ],
+    [
+      0.922488,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000279,
+      "\u001b[0m    box: Progress: 78% (Rate: 82880/s, Estimated time remaining: 0:01:16)\u001b[0m"
+    ],
+    [
+      0.92191,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000158,
+      "\u001b[0m    box: Progress: 78% (Rate: 181k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.026863,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000259,
+      "\u001b[0m    box: Progress: 78% (Rate: 190k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.05293,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000232,
+      "\u001b[0m    box: Progress: 78% (Rate: 254k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.021072,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000181,
+      "\u001b[0m    box: Progress: 78% (Rate: 302k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.019913,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000223,
+      "\u001b[0m    box: Progress: 79% (Rate: 352k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      0.853301,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000347,
+      "\u001b[0m    box: Progress: 79% (Rate: 298k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.021297,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000295,
+      "\u001b[0m    box: Progress: 79% (Rate: 364k/s, Estimated time remaining: 0:01:15)\u001b[0m"
+    ],
+    [
+      1.019725,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000375,
+      "\u001b[0m    box: Progress: 79% (Rate: 435k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      0.951496,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000266,
+      "\u001b[0m    box: Progress: 79% (Rate: 566k/s, Estimated time remaining: 0:01:14)\u001b[0m"
+    ],
+    [
+      1.002564,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000266,
+      "\u001b[0m    box: Progress: 79% (Rate: 741k/s, Estimated time remaining: 0:01:13)\u001b[0m"
+    ],
+    [
+      0.997244,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000242,
+      "\u001b[0m    box: Progress: 80% (Rate: 983k/s, Estimated time remaining: 0:01:11)\u001b[0m"
+    ],
+    [
+      1.029246,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00023,
+      "\u001b[0m    box: Progress: 80% (Rate: 1294k/s, Estimated time remaining: 0:01:09)\u001b[0m"
+    ],
+    [
+      1.390452,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000268,
+      "\u001b[0m    box: Progress: 81% (Rate: 1692k/s, Estimated time remaining: 0:01:07)\u001b[0m"
+    ],
+    [
+      0.797838,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000349,
+      "\u001b[0m    box: Progress: 81% (Rate: 1685k/s, Estimated time remaining: 0:01:06)\u001b[0m"
+    ],
+    [
+      0.995654,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000243,
+      "\u001b[0m    box: Progress: 81% (Rate: 1520k/s, Estimated time remaining: 0:01:06)\u001b[0m"
+    ],
+    [
+      0.924467,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00031,
+      "\u001b[0m    box: Progress: 81% (Rate: 1218k/s, Estimated time remaining: 0:01:06)\u001b[0m"
+    ],
+    [
+      0.864479,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000362,
+      "\u001b[0m    box: Progress: 81% (Rate: 833k/s, Estimated time remaining: 0:01:06)\u001b[0m"
+    ],
+    [
+      1.031682,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000173,
+      "\u001b[0m    box: Progress: 81% (Rate: 411k/s, Estimated time remaining: 0:01:06)\u001b[0m"
+    ],
+    [
+      0.96915,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000188,
+      "\u001b[0m    box: Progress: 82% (Rate: 256k/s, Estimated time remaining: 0:01:05)\u001b[0m"
+    ],
+    [
+      1.028971,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000252,
+      "\u001b[0m    box: Progress: 82% (Rate: 339k/s, Estimated time remaining: 0:01:05)\u001b[0m"
+    ],
+    [
+      1.067765,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000313,
+      "\u001b[0m    box: Progress: 82% (Rate: 461k/s, Estimated time remaining: 0:01:05)\u001b[0m"
+    ],
+    [
+      0.922964,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000252,
+      "\u001b[0m    box: Progress: 82% (Rate: 576k/s, Estimated time remaining: 0:01:04)\u001b[0m"
+    ],
+    [
+      0.974035,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000269,
+      "\u001b[0m    box: Progress: 82% (Rate: 619k/s, Estimated time remaining: 0:01:04)\u001b[0m"
+    ],
+    [
+      1.00286,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00017,
+      "\u001b[0m    box: Progress: 82% (Rate: 640k/s, Estimated time remaining: 0:01:03)\u001b[0m"
+    ],
+    [
+      1.001736,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000463,
+      "\u001b[0m    box: Progress: 82% (Rate: 668k/s, Estimated time remaining: 0:01:03)\u001b[0m"
+    ],
+    [
+      0.994642,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000241,
+      "\u001b[0m    box: Progress: 83% (Rate: 692k/s, Estimated time remaining: 0:01:02)\u001b[0m"
+    ],
+    [
+      1.014655,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000198,
+      "\u001b[0m    box: Progress: 83% (Rate: 717k/s, Estimated time remaining: 0:01:01)\u001b[0m"
+    ],
+    [
+      1.018486,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[0m    box: Progress: 83% (Rate: 752k/s, Estimated time remaining: 0:01:01)\u001b[0m"
+    ],
+    [
+      1.022692,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000235,
+      "\u001b[0m    box: Progress: 83% (Rate: 816k/s, Estimated time remaining: 0:01:00)\u001b[0m"
+    ],
+    [
+      0.958958,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000243,
+      "\u001b[0m    box: Progress: 84% (Rate: 943k/s, Estimated time remaining: 0:00:59)\u001b[0m"
+    ],
+    [
+      0.983548,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      9.7e-05,
+      "\u001b[0m    box: Progress: 84% (Rate: 1141k/s, Estimated time remaining: 0:00:57)\u001b[0m"
+    ],
+    [
+      1.007985,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000168,
+      "\u001b[0m    box: Progress: 84% (Rate: 1377k/s, Estimated time remaining: 0:00:55)\u001b[0m"
+    ],
+    [
+      0.995068,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000334,
+      "\u001b[0m    box: Progress: 85% (Rate: 1707k/s, Estimated time remaining: 0:00:53)\u001b[0m"
+    ],
+    [
+      0.999682,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000278,
+      "\u001b[0m    box: Progress: 86% (Rate: 2180k/s, Estimated time remaining: 0:00:50)\u001b[0m"
+    ],
+    [
+      1.228722,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000117,
+      "\u001b[0m    box: Progress: 87% (Rate: 2649k/s, Estimated time remaining: 0:00:46)\u001b[0m"
+    ],
+    [
+      0.798018,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000176,
+      "\u001b[0m    box: Progress: 87% (Rate: 2846k/s, Estimated time remaining: 0:00:44)\u001b[0m"
+    ],
+    [
+      1.021346,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000261,
+      "\u001b[0m    box: Progress: 87% (Rate: 2620k/s, Estimated time remaining: 0:00:43)\u001b[0m"
+    ],
+    [
+      1.024523,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000217,
+      "\u001b[0m    box: Progress: 88% (Rate: 2186k/s, Estimated time remaining: 0:00:43)\u001b[0m"
+    ],
+    [
+      0.92763,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000221,
+      "\u001b[0m    box: Progress: 88% (Rate: 1580k/s, Estimated time remaining: 0:00:43)\u001b[0m"
+    ],
+    [
+      1.027195,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00018,
+      "\u001b[0m    box: Progress: 88% (Rate: 954k/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      1.00745,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000227,
+      "\u001b[0m    box: Progress: 88% (Rate: 367k/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      1.022498,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000137,
+      "\u001b[0m    box: Progress: 88% (Rate: 373k/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      1.014964,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000143,
+      "\u001b[0m    box: Progress: 88% (Rate: 386k/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      1.227224,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000237,
+      "\u001b[0m    box: Progress: 88% (Rate: 403k/s, Estimated time remaining: 0:00:41)\u001b[0m"
+    ],
+    [
+      0.766617,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000303,
+      "\u001b[0m    box: Progress: 88% (Rate: 349k/s, Estimated time remaining: 0:00:42)\u001b[0m"
+    ],
+    [
+      0.999047,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000373,
+      "\u001b[0m    box: Progress: 88% (Rate: 319k/s, Estimated time remaining: 0:00:41)\u001b[0m"
+    ],
+    [
+      0.989591,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    box: Progress: 88% (Rate: 341k/s, Estimated time remaining: 0:00:41)\u001b[0m"
+    ],
+    [
+      1.023938,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000185,
+      "\u001b[0m    box: Progress: 88% (Rate: 359k/s, Estimated time remaining: 0:00:41)\u001b[0m"
+    ],
+    [
+      1.009552,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000219,
+      "\u001b[0m    box: Progress: 89% (Rate: 368k/s, Estimated time remaining: 0:00:40)\u001b[0m"
+    ],
+    [
+      0.908646,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000157,
+      "\u001b[0m    box: Progress: 89% (Rate: 450k/s, Estimated time remaining: 0:00:40)\u001b[0m"
+    ],
+    [
+      1.017428,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000205,
+      "\u001b[0m    box: Progress: 89% (Rate: 511k/s, Estimated time remaining: 0:00:40)\u001b[0m"
+    ],
+    [
+      1.025486,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00028,
+      "\u001b[0m    box: Progress: 89% (Rate: 526k/s, Estimated time remaining: 0:00:39)\u001b[0m"
+    ],
+    [
+      0.953613,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000135,
+      "\u001b[0m    box: Progress: 89% (Rate: 539k/s, Estimated time remaining: 0:00:39)\u001b[0m"
+    ],
+    [
+      1.00511,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000145,
+      "\u001b[0m    box: Progress: 89% (Rate: 567k/s, Estimated time remaining: 0:00:38)\u001b[0m"
+    ],
+    [
+      1.013866,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000118,
+      "\u001b[0m    box: Progress: 89% (Rate: 595k/s, Estimated time remaining: 0:00:38)\u001b[0m"
+    ],
+    [
+      1.033832,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000354,
+      "\u001b[0m    box: Progress: 90% (Rate: 632k/s, Estimated time remaining: 0:00:37)\u001b[0m"
+    ],
+    [
+      0.968932,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000198,
+      "\u001b[0m    box: Progress: 90% (Rate: 716k/s, Estimated time remaining: 0:00:36)\u001b[0m"
+    ],
+    [
+      0.979076,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000126,
+      "\u001b[0m    box: Progress: 90% (Rate: 852k/s, Estimated time remaining: 0:00:35)\u001b[0m"
+    ],
+    [
+      1.039716,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000223,
+      "\u001b[0m    box: Progress: 90% (Rate: 1025k/s, Estimated time remaining: 0:00:34)\u001b[0m"
+    ],
+    [
+      0.970549,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    box: Progress: 91% (Rate: 1275k/s, Estimated time remaining: 0:00:32)\u001b[0m"
+    ],
+    [
+      1.033767,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000226,
+      "\u001b[0m    box: Progress: 91% (Rate: 1619k/s, Estimated time remaining: 0:00:30)\u001b[0m"
+    ],
+    [
+      1.021733,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000204,
+      "\u001b[0m    box: Progress: 92% (Rate: 2106k/s, Estimated time remaining: 0:00:27)\u001b[0m"
+    ],
+    [
+      1.221327,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000368,
+      "\u001b[0m    box: Progress: 93% (Rate: 2256k/s, Estimated time remaining: 0:00:25)\u001b[0m"
+    ],
+    [
+      0.820308,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    box: Progress: 93% (Rate: 1924k/s, Estimated time remaining: 0:00:25)\u001b[0m"
+    ],
+    [
+      0.921061,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000139,
+      "\u001b[0m    box: Progress: 93% (Rate: 1649k/s, Estimated time remaining: 0:00:25)\u001b[0m"
+    ],
+    [
+      0.98126,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000162,
+      "\u001b[0m    box: Progress: 93% (Rate: 1198k/s, Estimated time remaining: 0:00:25)\u001b[0m"
+    ],
+    [
+      1.014807,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000389,
+      "\u001b[0m    box: Progress: 93% (Rate: 565k/s, Estimated time remaining: 0:00:24)\u001b[0m"
+    ],
+    [
+      1.027701,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00015,
+      "\u001b[0m    box: Progress: 93% (Rate: 351k/s, Estimated time remaining: 0:00:24)\u001b[0m"
+    ],
+    [
+      0.973476,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000368,
+      "\u001b[0m    box: Progress: 93% (Rate: 476k/s, Estimated time remaining: 0:00:23)\u001b[0m"
+    ],
+    [
+      1.007061,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000245,
+      "\u001b[0m    box: Progress: 93% (Rate: 586k/s, Estimated time remaining: 0:00:22)\u001b[0m"
+    ],
+    [
+      0.962464,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000193,
+      "\u001b[0m    box: Progress: 94% (Rate: 718k/s, Estimated time remaining: 0:00:22)\u001b[0m"
+    ],
+    [
+      1.002548,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000238,
+      "\u001b[0m    box: Progress: 94% (Rate: 850k/s, Estimated time remaining: 0:00:21)\u001b[0m"
+    ],
+    [
+      1.068752,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000132,
+      "\u001b[0m    box: Progress: 94% (Rate: 810k/s, Estimated time remaining: 0:00:20)\u001b[0m"
+    ],
+    [
+      0.929706,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    box: Progress: 94% (Rate: 816k/s, Estimated time remaining: 0:00:19)\u001b[0m"
+    ],
+    [
+      1.021953,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000141,
+      "\u001b[0m    box: Progress: 94% (Rate: 829k/s, Estimated time remaining: 0:00:19)\u001b[0m"
+    ],
+    [
+      0.991139,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000161,
+      "\u001b[0m    box: Progress: 95% (Rate: 867k/s, Estimated time remaining: 0:00:18)\u001b[0m"
+    ],
+    [
+      1.030947,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    box: Progress: 95% (Rate: 889k/s, Estimated time remaining: 0:00:17)\u001b[0m"
+    ],
+    [
+      0.952941,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000222,
+      "\u001b[0m    box: Progress: 95% (Rate: 950k/s, Estimated time remaining: 0:00:16)\u001b[0m"
+    ],
+    [
+      1.044217,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00027,
+      "\u001b[0m    box: Progress: 96% (Rate: 1101k/s, Estimated time remaining: 0:00:15)\u001b[0m"
+    ],
+    [
+      0.968103,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000238,
+      "\u001b[0m    box: Progress: 96% (Rate: 1261k/s, Estimated time remaining: 0:00:13)\u001b[0m"
+    ],
+    [
+      1.01582,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000166,
+      "\u001b[0m    box: Progress: 96% (Rate: 1342k/s, Estimated time remaining: 0:00:12)\u001b[0m"
+    ],
+    [
+      0.988879,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.0002,
+      "\u001b[0m    box: Progress: 97% (Rate: 1409k/s, Estimated time remaining: 0:00:11)\u001b[0m"
+    ],
+    [
+      1.026452,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000366,
+      "\u001b[0m    box: Progress: 97% (Rate: 1401k/s, Estimated time remaining: 0:00:10)\u001b[0m"
+    ],
+    [
+      0.970259,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000149,
+      "\u001b[0m    box: Progress: 97% (Rate: 1336k/s, Estimated time remaining: 0:00:09)\u001b[0m"
+    ],
+    [
+      0.984839,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000341,
+      "\u001b[0m    box: Progress: 97% (Rate: 1260k/s, Estimated time remaining: 0:00:08)\u001b[0m"
+    ],
+    [
+      1.008318,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000175,
+      "\u001b[0m    box: Progress: 98% (Rate: 1243k/s, Estimated time remaining: 0:00:07)\u001b[0m"
+    ],
+    [
+      1.011676,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000189,
+      "\u001b[0m    box: Progress: 98% (Rate: 1226k/s, Estimated time remaining: 0:00:05)\u001b[0m"
+    ],
+    [
+      0.981026,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000214,
+      "\u001b[0m    box: Progress: 98% (Rate: 1253k/s, Estimated time remaining: 0:00:04)\u001b[0m"
+    ],
+    [
+      1.017873,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000172,
+      "\u001b[0m    box: Progress: 99% (Rate: 1271k/s, Estimated time remaining: 0:00:03)\u001b[0m"
+    ],
+    [
+      0.982403,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000163,
+      "\u001b[0m    box: Progress: 99% (Rate: 1233k/s, Estimated time remaining: 0:00:02)\u001b[0m"
+    ],
+    [
+      1.346328,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000488,
+      "\u001b[0m    box: Progress: 99% (Rate: 1250k/s, Estimated time remaining: 0:00:01)\u001b[0m"
+    ],
+    [
+      0.785656,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.00048,
+      "\u001b[0m    box: Progress: 99% (Rate: 1080k/s, Estimated time remaining: 0:00:01)\u001b[0m"
+    ],
+    [
+      0.552278,
+      "\u001b[0m\r\u001b[K\u001b[0m\u001b[0m    box: Progress: 99% (Rate: 914k/s, Estimated time remaining: --:--:--)\u001b[0m"
+    ],
+    [
+      0.001874,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.66629,
+      "\u001b[1;32m==> box: Successfully added box 'ubuntu/trusty64' (v20170619.0.0) for 'virtualbox'!\u001b[0m\r\n"
+    ],
+    [
+      0.040347,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.096687,
+      "\u001b]2;ncrash@Daekwonui-MacBook-Pro: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.020318,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[44m\u001b[30m ~ \u001b[49m\u001b[34m\u001b[39m \u001b[K"
+    ],
+    [
+      0.000157,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      888.043756,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
